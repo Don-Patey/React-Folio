@@ -1,0 +1,29 @@
+body {
+    font-family: 'Your Preferred Font', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333; /* Set a default text color */
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
+  
+  h2 {
+    color: #333; /* Set a default heading color */
+  }
+  
+  a {
+    color: #007bff; /* Set a default link color */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
