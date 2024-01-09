@@ -1,20 +1,22 @@
-
 import React from 'react';
 import './Footer.css';
 
 const Footer = () => {
   return (
-    <footer>
-     <p>Connect with me:</p>
-      <div className="social-links">
-        <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer">
+    <footer className="footer-section">
+      <div>
+        <a href="https://github.com/Don-Patey" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
-        <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer">
+      </div>
+      <div>
+        <a href="https://ca.linkedin.com/in/don-patey-4b095a139" target="_blank" rel="noopener noreferrer">
           LinkedIn
         </a>
-        <a href="https://www.example.com/your-other-platform" target="_blank" rel="noopener noreferrer">
-          Other Platform
+      </div>
+      <div>
+        <a href="https://www.instagram.com/donpatey/" target="_blank" rel="noopener noreferrer">
+          Instagram
         </a>
       </div>
     </footer>
