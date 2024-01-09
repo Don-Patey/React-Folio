@@ -2,6 +2,7 @@ import React from 'react';
 import './Footer.css';
 
 const Footer = () => {
+  console.log('Footer.jsx: Footer()');
   return (
     <footer className="footer-section">
       <div>

@@ -1,12 +1,11 @@
 import React from 'react';
-import Footer from './footer.jsx'; 
+import Footer from '../Footer/Footer';
 
 
 const Resume = () => {
   return (
     <div>
-      {/* Other content of the Resume page */}
-      <Footer />
+      <Footer/>
     </div>
   );
 };

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85ea8e12.css",
+    "main.js": "/static/js/main.6de22e8e.js",
+    "static/media/weathermusic.png": "/static/media/weathermusic.8644b00399249578d420.png",
+    "static/media/portfolio.png": "/static/media/portfolio.5891a1e0fbb3fffc3590.png",
+    "static/media/zesty-zoro.jpg": "/static/media/zesty-zoro.e6942740f92b55cf5214.jpg",
+    "static/media/passwordgen.png": "/static/media/passwordgen.213ccd6441282f7aeb66.png",
+    "static/media/jscodequiz.png": "/static/media/jscodequiz.2e2ddf272735697c55f2.png",
+    "index.html": "/index.html",
+    "main.85ea8e12.css.map": "/static/css/main.85ea8e12.css.map",
+    "main.6de22e8e.js.map": "/static/js/main.6de22e8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ea8e12.css",
+    "static/js/main.6de22e8e.js"
+  ]
+}
