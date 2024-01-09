@@ -1,15 +1,26 @@
-
-
 import React from 'react';
-import './Resume.css';
+import './Footer.css'; // You can style this as needed
 
-const Resume = () => {
+const Footer = () => {
   return (
-    <section>
-      <h2>Resume</h2>
-      {/* Add a link to a downloadable resume and list of proficiencies */}
-    </section>
+    <footer className="footer-section">
+      <div>
+        <a href="https://github.com/Don-Patey" target="_blank" rel="noopener noreferrer">
+          GitHub
+        </a>
+      </div>
+      <div>
+        <a href="https://ca.linkedin.com/in/don-patey-4b095a139" target="_blank" rel="noopener noreferrer">
+          LinkedIn
+        </a>
+      </div>
+      <div>
+        <a href="https://www.instagram.com/donpatey/" target="_blank" rel="noopener noreferrer">
+          Instagram
+        </a>
+      </div>
+    </footer>
   );
 };
 
-export default Resume;
+export default Footer;
